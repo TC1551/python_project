@@ -1,0 +1,11 @@
+<HTML>
+<head></head>
+<title>HTML LINKS</title>
+<BODY>
+
+<BR><A HREF=<img src="Eightball.gif" width="130" height="198" alt="Eight Ball">BIG DATA</A></BR>
+<BR><A HREF="SEMANTIC WEB.html">SEMANTIC WEB</A></BR>
+
+
+</BODY>
+</HTML>
